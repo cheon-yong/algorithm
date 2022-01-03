@@ -20,7 +20,6 @@ int main()
         if (numbers[i] <= min)
             min = numbers[i];
     }
-
     cout << min << " " << max << endl;
     return 0;
 }
