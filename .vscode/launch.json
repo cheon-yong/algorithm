@@ -21,9 +21,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "d:/vs-code/vs_workspace/baekjoon/수학/10818",
+      "cwd": "d:/vs-code/vs_workspace/baekjoon/삼성 SW 역량 테스트 기출 문제/13460",
       "environment": [],
-      "program": "d:/vs-code/vs_workspace/baekjoon/수학/10818/build/Debug/outDebug",
+      "program": "d:/vs-code/vs_workspace/baekjoon/삼성 SW 역량 테스트 기출 문제/13460/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/mingw/mingw64/bin/gdb.exe",
