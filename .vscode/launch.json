@@ -17,17 +17,13 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [
-        ""
-      ],
+      "args": [],
       "stopAtEntry": false,
-      "cwd": "d:/vs-code/vs_workspace/baekjoon/삼성 SW 역량 테스트 기출 문제/13460",
-      "environment": [],
-      "program": "d:/vs-code/vs_workspace/baekjoon/삼성 SW 역량 테스트 기출 문제/13460/build/Debug/outDebug",
-      "internalConsoleOptions": "openOnSessionStart",
+      "externalConsole": true,
+      "cwd": "d:/vs-code/vs_workspace/algorithm/baekjoon/다이나믹 프로그래밍/2775",
+      "program": "d:/vs-code/vs_workspace/algorithm/baekjoon/다이나믹 프로그래밍/2775/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/mingw/mingw64/bin/gdb.exe",
-      "externalConsole": false,
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
