@@ -20,8 +20,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/vs-code/vs_workspace/algorithm/baekjoon/다이나믹 프로그래밍/2775",
-      "program": "d:/vs-code/vs_workspace/algorithm/baekjoon/다이나믹 프로그래밍/2775/build/Debug/outDebug",
+      "cwd": "d:/vs-code/vs_workspace/algorithm/programmers/Lv0",
+      "program": "d:/vs-code/vs_workspace/algorithm/programmers/Lv0/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/mingw/mingw64/bin/gdb.exe",
       "setupCommands": [
