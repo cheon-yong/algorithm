@@ -20,8 +20,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/vs-code/vs_workspace/algorithm/baekjoon/백트래킹",
-      "program": "d:/vs-code/vs_workspace/algorithm/baekjoon/백트래킹/build/Debug/outDebug",
+      "cwd": "d:/vs-code/vs_workspace/algorithm/programmers/lv1",
+      "program": "d:/vs-code/vs_workspace/algorithm/programmers/lv1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/mingw/mingw64/bin/gdb.exe",
       "setupCommands": [
